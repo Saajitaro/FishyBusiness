@@ -4,7 +4,7 @@ The bug: Seemingly randomly, the config would reset to default values fairly fre
 **Any Mine Mine no Mi server owner is free to use this solution.**
 
 ## How do I setup the mod?
-- Put the mod in your mods folder,
+- Put the mod in your mods folder (only required server-side),
 - Start server,
 - Stop server after fully loaded,
 - Put your ideal mineminenomi-common.toml file in ```./config/fishybusiness/perfect config/```,
